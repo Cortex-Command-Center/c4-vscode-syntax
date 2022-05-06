@@ -1,8 +1,10 @@
 {
     "name": "c4ini",
+    "publisher": "CortexCommandCenter",
     "displayName": "C4 INI Syntax",
     "description": "Adds syntax support for C4's variant of ini",
-    "version": "0.0.1",
+    "icon": "c4-icon.png",
+    "version": "0.0.2",
     "repository": {
         "url": "https://github.com/Wazubaba/c4-vscode-syntax"
     },
