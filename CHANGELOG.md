@@ -1,7 +1,9 @@
 # Change Log
 
 All notable changes to the "c4ini" extension will be documented in this file.
+## [0.5]
 
+- Lower minimum version of vscode required
 ## [0.4]
 
 - Fix repo link for package.json

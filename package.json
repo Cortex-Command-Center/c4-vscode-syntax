@@ -4,12 +4,12 @@
     "displayName": "C4 INI Syntax",
     "description": "Adds syntax support for C4's variant of ini",
     "icon": "c4-icon.png",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository": {
         "url": "https://github.com/Cortex-Command-Center/c4-vscode-syntax"
     },
     "engines": {
-        "vscode": "^1.67.0"
+        "vscode": "^1.66.0"
     },
     "categories": [
         "Programming Languages"
