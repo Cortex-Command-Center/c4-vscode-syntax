@@ -4,7 +4,7 @@
     "displayName": "C4 INI Syntax",
     "description": "Adds syntax support for C4's variant of ini",
     "icon": "c4-icon.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "url": "https://github.com/Wazubaba/c4-vscode-syntax"
     },
